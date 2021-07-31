@@ -90,7 +90,6 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
             tv_name = itemView.findViewById(R.id.prophet_name);
             tv_born = itemView.findViewById(R.id.prophet_born);
             tv_age = itemView.findViewById(R.id.prophet_age);
-//            tv_life = itemView.findViewById(R.id.prophet_life);
             img_thumbnail = itemView.findViewById(R.id.thumbnail);
         }
     }
