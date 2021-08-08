@@ -85,5 +85,6 @@ public class MainActivity extends AppCompatActivity {
         RecyclerViewAdapter myAdapter = new RecyclerViewAdapter(this, listNabi);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         recyclerView.setAdapter(myAdapter);
+
     }
 }
